@@ -63,7 +63,4 @@ while True:
         continue
         # Loop continues until player guesses the correct number
 
-print(f"{name.title()}, Thank you for playing The Number Guessing Game!")
-# Printing statement indicating the game has concluded and thanking the player for playing
-input(f"{name.title()}, Would you like to play again? (Y/N): ")
-# Asking player if they want to play again
+
